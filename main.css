@@ -1,0 +1,10 @@
+.formulario {
+  display: grid;
+  grid-template-columns: auto auto auto;
+}
+.agregar {
+  color: blue;
+}
+button {
+  margin-top: 5px;
+}
